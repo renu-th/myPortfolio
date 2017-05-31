@@ -1,0 +1,27 @@
+{
+  "name": "resume-boot",
+  "version": "1.0.0",
+  "description": "My Resume using HTML, BootStap, CSS, LESS, JS, jQuery, Angular",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renu-th/myPortfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Renuka Sruthi Thorati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renu-th/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/renu-th/myPortfolio#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
